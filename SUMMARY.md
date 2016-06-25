@@ -1,6 +1,5 @@
 # Summary
 
-
 * 概览
 		* [平台简介](overview/introduction.md)
     * [创建应用](overview/app.md)
