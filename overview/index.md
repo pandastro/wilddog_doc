@@ -1,38 +1,24 @@
 title: 简介
 ---
 
-野狗实时数据库是一种云托管数据库。
+野狗是一个实时通信云服务。我们提供的  [实时数据同步]() 和  [数据存储]() 服务，能帮助你全面提升应用开发速度。你只需简单的几行代码，就可以实现 App 和服务端的双向实时通信。让你专注解决客户的问题，不必浪费时间构建复杂的基础架构。
 
-![](http://7u2r36.com1.z0.glb.clouddn.com/16-8-18/26509794.jpg)
-
-数据库将数据存储为 [JSON](http://daringfireball.net/projects/markdown/syntax)，以实时方式与每个连接的客户端同步。 你的用户可以在任何设备上访问自己的数据。
-
-每当你在实时数据库中更新数据，云端将同时通知所有设备，时差以毫秒计算。并且，当用户操作实时数据库时，会优先对本地进行操作，再同步到云端。这样很好的解决移动互联网的 [网络不稳定](http://daringfireball.net/projects/markdown/syntax) 的问题，同时提升访问速度。
-
-另外，野狗还有一套完美的机制，来保证你云端数据的 [安全](http://daringfireball.net/projects/markdown/syntax)。
+如果你没有自己的后端服务器，也可以将野狗作为一站式的后端服务，无需编写后端代码、租用服务器，也可以快速完成应用开发。
 
 
+![](http://7u2r36.com1.z0.glb.clouddn.com/wtf.png)
 
-## 与你的产品结合
+传统开发 App 流程： 
+首先你需要构建基础架构。大量的工程师和经济投入，然后经过相当长的研发时间，你才能真正进入开发 App 的阶段。
 
-将野狗实时数据库与你的产品整合非常简单，你仅需以下几个步骤
-
-![](http://7u2r36.com1.z0.glb.clouddn.com/16-8-18/9811229.jpg)
-
-我们提供 [快速入门]() 教程，你可以马上开始尝试用最快速度将野狗接入你的产品。
-
+用野狗开发 App 流程：
+完全不必花时间在基础架构上。你只需要花 5 分钟时间，就可以快速掌握我们提供的API，搞定后端，然后开始实现你的创意。
 
 
-[image-1]:	http://7u2r36.com1.z0.glb.clouddn.com/16-8-18/26509794.jpg
-[image-2]:	http://7u2r36.com1.z0.glb.clouddn.com/16-8-18/41967848.jpg
-[image-3]:	http://7u2r36.com1.z0.glb.clouddn.com/16-8-18/91691674.jpg
-[image-4]:	http://7u2r36.com1.z0.glb.clouddn.com/16-8-18/55607911.jpg
-[image-5]:	http://7u2r36.com1.z0.glb.clouddn.com/16-8-18/43298064.jpg
-[image-6]:	http://7u2r36.com1.z0.glb.clouddn.com/16-8-18/33196242.jpg
-[image-7]:	http://7u2r36.com1.z0.glb.clouddn.com/16-8-18/42457934.jpg
-[image-8]:	http://7u2r36.com1.z0.glb.clouddn.com/16-8-18/71674491.jpg
-[image-9]:	http://7u2r36.com1.z0.glb.clouddn.com/16-8-18/55654759.jpg
-[image-10]:	http://7u2r36.com1.z0.glb.clouddn.com/16-8-18/65615087.jpg
-[image-11]:	http://7u2r36.com1.z0.glb.clouddn.com/16-8-18/9811229.jpg
+目前野狗的产品有 [实时数据同步（realtime database）]()、[身份认证（authentication）]()。即将推出实时推送（Notifitiy）、实时音视频通话（Video／Voice）的公测版本，以及多人在线会议（Webinar）和 IM 完整解决方案。
 
+![](http://7u2r36.com1.z0.glb.clouddn.com/16-8-18/72909257.jpg)
+
+
+野狗的愿景是成为全球领先的实时通信云服务，让生活因为实时而更加美好。哪怕只有一毫秒的提升，野狗也会去做。
 
