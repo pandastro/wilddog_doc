@@ -1,7 +1,9 @@
 # Summary
 
 * 概览
-    * [平台简介](overview/introduction.md)
+    * [野狗概览]
+      * [概览](overview/introduction.md)  
+
     * [创建应用](overview/app.md)
     * [数据存储](overview/storage.md)
     * [实时通信](overview/realtime.md)
