@@ -149,7 +149,7 @@
            * [错误码]
    * [受控词表]
 * [控制台使用指南](console/index.md)
-   * [创建应用]
-   * [管理应用]
+   * [创建应用](/console/creat.md)
+   * [管理应用](/console/administer.md)
      
 
