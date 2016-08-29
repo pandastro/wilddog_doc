@@ -2,9 +2,7 @@
 
 * [Introduction](README.md)
 * 概览
-   * [野狗概览]
-       * [概览](overview/index.md)
-       * [产品架构]
+   * [野狗概览](overview/index.md)
    * [产品简介]
        * [实时数据同步]
            * [简介](overview/database.md)
